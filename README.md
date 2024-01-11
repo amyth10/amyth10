@@ -1,0 +1,9 @@
+- Amyth here
+- 🌱 I’m currently learning angular, react, nextjs ...
+- 💞️ I’m looking to collaborate on web development on django, angular, react  and nextjs...
+- 📫 How to reach me amit102002@gmail.com ...
+
+<!---
+amyth10/amyth10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
